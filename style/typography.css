@@ -1,0 +1,19 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Newsreader", serif;
+  font-weight: 800;
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
+  font-size: 14px;
+}
+
+.read-more {
+  font-size: 12px;
+  font-weight: 600;
+}
